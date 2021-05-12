@@ -1,0 +1,58 @@
+{
+  "uid" : "2f3b0bcc92b84bad",
+  "name" : "Given Open oracle's login page",
+  "fullName" : "Oracle login test: As a user, I can log into the secure area.Given Open oracle's login page",
+  "historyId" : "4ed70dec57833b43593cffe254938c86",
+  "time" : {
+    "start" : 1620818960553,
+    "stop" : 1620818961903,
+    "duration" : 1350
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "element not interactable\n                  (Session info: chrome=90.0.4430.212)",
+  "statusTrace" : "element not interactable\n                  (Session info: chrome=90.0.4430.212)\n                    at Object.getErrorFromResponseBody (C:\\Users\\z1543\\Documents\\boilplate\\node_modules\\webdriver\\build\\utils.js:94:12)\n                    at WebDriverRequest._request (C:\\Users\\z1543\\Documents\\boilplate\\node_modules\\webdriver\\build\\request.js:134:31)\n                    at processTicksAndRejections (internal/process/task_queues.js:93:5)\n                    at Element.elementErrorHandlerCallbackFn (C:\\Users\\z1543\\Documents\\boilplate\\node_modules\\webdriverio\\build\\middlewares.js:17:32)\n                    at Element.runCommandWithHooks (C:\\Users\\z1543\\Documents\\boilplate\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:70:25)\n                    at Element.runCommandWithHooks (C:\\Users\\z1543\\Documents\\boilplate\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:65:24)\n                    at Element.wrapCommandFn (C:\\Users\\z1543\\Documents\\boilplate\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:44:44)\n                    at Element.click (C:\\Users\\z1543\\Documents\\boilplate\\node_modules\\webdriverio\\build\\middlewares.js:34:12)\n                    at LandingPage.gotologinpage (C:\\Users\\z1543\\Documents\\boilplate\\pageobject\\/langing.page.js:23:24)\n                    at World.<anonymous> (C:\\Users\\z1543\\Documents\\boilplate\\stepdefinations\\/given.js:8:17)\n                    at World.executeSync (C:\\Users\\z1543\\Documents\\boilplate\\node_modules\\@wdio\\sync\\build\\index.js:25:22)\n                    at C:\\Users\\z1543\\Documents\\boilplate\\node_modules\\@wdio\\sync\\build\\index.js:46:68",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Oracle login test: As a user, I can log into the secure area"
+  }, {
+    "name" : "testClass",
+    "value" : "Oracle login test: As a user, I can log into the secure area"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given Open oracle's login page"
+  }, {
+    "name" : "package",
+    "value" : "Oracle login test: As a user, I can log into the secure area"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-90.0.4430.212"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2f3b0bcc92b84bad.json",
+  "parameterValues" : [ "chrome-90.0.4430.212" ]
+}

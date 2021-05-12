@@ -1,0 +1,82 @@
+{
+  "uid" : "b6ca901fa7c893db",
+  "name" : "Then Close session",
+  "fullName" : "Oracle login test: As a user, I can log into the secure area.Then Close session",
+  "historyId" : "6c83d8ac5a81388e1932967d5626062f",
+  "time" : {
+    "start" : 1620819464802,
+    "stop" : 1620819464802,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Oracle login test: As a user, I can log into the secure area"
+  }, {
+    "name" : "testClass",
+    "value" : "Oracle login test: As a user, I can log into the secure area"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then Close session"
+  }, {
+    "name" : "package",
+    "value" : "Oracle login test: As a user, I can log into the secure area"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-90.0.4430.212"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "6a33c18602352f80",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620819444207,
+        "stop" : 1620819444694,
+        "duration" : 487
+      }
+    }, {
+      "uid" : "55720b340d58dfe",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1620819357822,
+        "stop" : 1620819357822,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "2d583b36e5bf7148",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620819357728,
+        "stop" : 1620819357773,
+        "duration" : 45
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b6ca901fa7c893db.json",
+  "parameterValues" : [ "chrome-90.0.4430.212" ]
+}

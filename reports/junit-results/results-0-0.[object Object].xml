@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="Oracle_login_test" timestamp="2021-05-12T21:12:12" time="53.486" tests="2" failures="0" errors="0" skipped="0">
+    <properties>
+      <property name="specId" value="0"/>
+      <property name="featureName" value="Oracle login test"/>
+      <property name="capabilities" value="chrome.90_0_4430_212.windows"/>
+      <property name="featureFile" value=".\features\login.feature"/>
+    </properties>
+    <testcase classname="CucumberJUnitReport-chrome.90_0_4430_212.windows.Oracle_login_test" name="Oracle_login_test.As_a_user_I_can_log_into_the_secure_area" time="25.315">
+      <system-out>
+        <![CDATA[
+✅ Given Open oracle's login page✅ When Enter username and password of "validlogin"✅ Then Check the account is logged in✅ Then Reload session
+]]>
+      </system-out>
+    </testcase>
+    <testcase classname="CucumberJUnitReport-chrome.90_0_4430_212.windows.Oracle_login_test" name="Oracle_login_test.As_a_user_I_can_log_into_the_secure_area" time="28.167">
+      <system-out>
+        <![CDATA[
+✅ Given Open oracle's login page✅ When Enter username and password of "invalidlogin"✅ Then Check the error message
+]]>
+      </system-out>
+    </testcase>
+  </testsuite>
+</testsuites>

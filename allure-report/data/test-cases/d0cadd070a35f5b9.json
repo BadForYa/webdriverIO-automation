@@ -1,0 +1,56 @@
+{
+  "uid" : "d0cadd070a35f5b9",
+  "name" : "When Enter username and password of \"validlogin\"",
+  "fullName" : "Oracle login test: As a user, I can log into the secure area.When Enter username and password of \"validlogin\"",
+  "historyId" : "7581e9d8923728c95cb2264c0ba3d3a1",
+  "time" : {
+    "start" : 1620820577265,
+    "stop" : 1620820580407,
+    "duration" : 3142
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Oracle login test: As a user, I can log into the secure area"
+  }, {
+    "name" : "testClass",
+    "value" : "Oracle login test: As a user, I can log into the secure area"
+  }, {
+    "name" : "testMethod",
+    "value" : "When Enter username and password of \"validlogin\""
+  }, {
+    "name" : "package",
+    "value" : "Oracle login test: As a user, I can log into the secure area"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-90.0.4430.212"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d0cadd070a35f5b9.json",
+  "parameterValues" : [ "chrome-90.0.4430.212" ]
+}

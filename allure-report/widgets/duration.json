@@ -1,0 +1,121 @@
+[ {
+  "uid" : "838cb5d2e15f2b3d",
+  "name" : "Hook",
+  "time" : {
+    "start" : 1620820682789,
+    "stop" : 1620820682789,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e63111745875a0d5",
+  "name" : "Then Check my account is logged in",
+  "time" : {
+    "start" : 1620813953816,
+    "stop" : 1620813953905,
+    "duration" : 89
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "156516f3c60a3895",
+  "name" : "When Enter my username \"154387566@qq.com\" and password \"oracle2B!\"",
+  "time" : {
+    "start" : 1620813951495,
+    "stop" : 1620813953816,
+    "duration" : 2321
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b7f71ebb31dd0cf4",
+  "name" : "Given Open oracle's login page",
+  "time" : {
+    "start" : 1620820669609,
+    "stop" : 1620820681352,
+    "duration" : 11743
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3b586bf65b38fbc2",
+  "name" : "Then Check the error message",
+  "time" : {
+    "start" : 1620820682268,
+    "stop" : 1620820682789,
+    "duration" : 521
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f4db0e8cc9e5abcd",
+  "name" : "Then Reload session",
+  "time" : {
+    "start" : 1620820669127,
+    "stop" : 1620820669603,
+    "duration" : 476
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b6ca901fa7c893db",
+  "name" : "Then Close session",
+  "time" : {
+    "start" : 1620819464802,
+    "stop" : 1620819464802,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "f01b06cb8670e35c",
+  "name" : "When Enter username and password of \"invalidlogin\"",
+  "time" : {
+    "start" : 1620820681352,
+    "stop" : 1620820682268,
+    "duration" : 916
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "38badddb36a22015",
+  "name" : "Then Check the account is logged in",
+  "time" : {
+    "start" : 1620820669049,
+    "stop" : 1620820669127,
+    "duration" : 78
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d0dbfdb7bc8cf0b6",
+  "name" : "When Enter username and password of <group>",
+  "time" : {
+    "start" : 1620818819502,
+    "stop" : 1620818819502,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "f5b874aa1425fdd2",
+  "name" : "When Enter username and password of <group> user",
+  "time" : {
+    "start" : 1620818894392,
+    "stop" : 1620818894392,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "784e779280225117",
+  "name" : "When Enter username and password of \"validlogin\"",
+  "time" : {
+    "start" : 1620820665163,
+    "stop" : 1620820669049,
+    "duration" : 3886
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

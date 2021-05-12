@@ -1,0 +1,161 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "When Enter my username \"154387566@qq.com\" and password \"oracle2B!\"",
+    "uid" : "156516f3c60a3895",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1620813951495,
+      "stop" : 1620813953816,
+      "duration" : 2321
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-90.0.4430.212" ]
+  }, {
+    "name" : "Then Check my account is logged in",
+    "uid" : "e63111745875a0d5",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1620813953816,
+      "stop" : 1620813953905,
+      "duration" : 89
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-90.0.4430.212" ]
+  }, {
+    "name" : "When Enter username and password of <group>",
+    "uid" : "d0dbfdb7bc8cf0b6",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "broken",
+    "time" : {
+      "start" : 1620818819502,
+      "stop" : 1620818819502,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-90.0.4430.212" ]
+  }, {
+    "name" : "When Enter username and password of <group> user",
+    "uid" : "f5b874aa1425fdd2",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "broken",
+    "time" : {
+      "start" : 1620818894392,
+      "stop" : 1620818894392,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-90.0.4430.212" ]
+  }, {
+    "name" : "Then Close session",
+    "uid" : "b6ca901fa7c893db",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1620819464802,
+      "stop" : 1620819464802,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-90.0.4430.212" ]
+  }, {
+    "name" : "When Enter username and password of \"validlogin\"",
+    "uid" : "784e779280225117",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1620820665163,
+      "stop" : 1620820669049,
+      "duration" : 3886
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-90.0.4430.212" ]
+  }, {
+    "name" : "Then Check the account is logged in",
+    "uid" : "38badddb36a22015",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1620820669049,
+      "stop" : 1620820669127,
+      "duration" : 78
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-90.0.4430.212" ]
+  }, {
+    "name" : "Then Reload session",
+    "uid" : "f4db0e8cc9e5abcd",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1620820669127,
+      "stop" : 1620820669603,
+      "duration" : 476
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-90.0.4430.212" ]
+  }, {
+    "name" : "Given Open oracle's login page",
+    "uid" : "b7f71ebb31dd0cf4",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1620820669609,
+      "stop" : 1620820681352,
+      "duration" : 11743
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-90.0.4430.212" ]
+  }, {
+    "name" : "When Enter username and password of \"invalidlogin\"",
+    "uid" : "f01b06cb8670e35c",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1620820681352,
+      "stop" : 1620820682268,
+      "duration" : 916
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-90.0.4430.212" ]
+  }, {
+    "name" : "Then Check the error message",
+    "uid" : "3b586bf65b38fbc2",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1620820682268,
+      "stop" : 1620820682789,
+      "duration" : 521
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-90.0.4430.212" ]
+  }, {
+    "name" : "Hook",
+    "uid" : "838cb5d2e15f2b3d",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1620820682789,
+      "stop" : 1620820682789,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-90.0.4430.212" ]
+  } ]
+}

@@ -1,0 +1,232 @@
+{
+  "7581e9d8923728c95cb2264c0ba3d3a1" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "784e779280225117",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620820665163,
+        "stop" : 1620820669049,
+        "duration" : 3886
+      }
+    } ]
+  },
+  "4ed70dec57833b43593cffe254938c86" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b7f71ebb31dd0cf4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620820669609,
+        "stop" : 1620820681352,
+        "duration" : 11743
+      }
+    } ]
+  },
+  "7f2159150b15cb7e0b8267b4dacc3b45" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "38badddb36a22015",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620820669049,
+        "stop" : 1620820669127,
+        "duration" : 78
+      }
+    } ]
+  },
+  "b2132e4b42b51ac47f4829787b8ed1c0" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3b586bf65b38fbc2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620820682268,
+        "stop" : 1620820682789,
+        "duration" : 521
+      }
+    } ]
+  },
+  "2097a59c6a400e70022862d18f4671ab" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e63111745875a0d5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620813953816,
+        "stop" : 1620813953905,
+        "duration" : 89
+      }
+    } ]
+  },
+  "f58668f0d1682e6f9f881c48f4c8134e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d0dbfdb7bc8cf0b6",
+      "status" : "broken",
+      "statusDetails" : "Step \"When Enter username and password of <group>\" is not definedYou can ignore this error by setting cucumberOpts.ignoreUndefinedDefinitions as true.",
+      "time" : {
+        "start" : 1620818819502,
+        "stop" : 1620818819502,
+        "duration" : 0
+      }
+    } ]
+  },
+  "6c83d8ac5a81388e1932967d5626062f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b6ca901fa7c893db",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1620819464802,
+        "stop" : 1620819464802,
+        "duration" : 0
+      }
+    } ]
+  },
+  "ca1733333fb7bbfaae747c6db91dca2f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "838cb5d2e15f2b3d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620820682789,
+        "stop" : 1620820682789,
+        "duration" : 0
+      }
+    } ]
+  },
+  "b12b5312f6cdc7e64e68906fae72f2e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f4db0e8cc9e5abcd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620820669127,
+        "stop" : 1620820669603,
+        "duration" : 476
+      }
+    } ]
+  },
+  "214bbeff39b6eac212c27a8c3de6f89d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f01b06cb8670e35c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620820681352,
+        "stop" : 1620820682268,
+        "duration" : 916
+      }
+    } ]
+  },
+  "e2a6a255a1daf2aa0ce34806de6d1de5" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f5b874aa1425fdd2",
+      "status" : "broken",
+      "statusDetails" : "Step \"When Enter username and password of <group> user\" is not definedYou can ignore this error by setting cucumberOpts.ignoreUndefinedDefinitions as true.",
+      "time" : {
+        "start" : 1620818894392,
+        "stop" : 1620818894392,
+        "duration" : 0
+      }
+    } ]
+  },
+  "8a03f0e00eb8032df8a254bed044bc2e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "156516f3c60a3895",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620813951495,
+        "stop" : 1620813953816,
+        "duration" : 2321
+      }
+    } ]
+  }
+}

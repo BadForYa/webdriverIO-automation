@@ -1,0 +1,56 @@
+{
+  "uid" : "9d0453ff4e45315d",
+  "name" : "Hook",
+  "fullName" : "Oracle login test: As a user, I can log into the secure area.Hook",
+  "historyId" : "ca1733333fb7bbfaae747c6db91dca2f",
+  "time" : {
+    "start" : 1620820669609,
+    "stop" : 1620820669609,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Oracle login test: As a user, I can log into the secure area"
+  }, {
+    "name" : "testClass",
+    "value" : "Oracle login test: As a user, I can log into the secure area"
+  }, {
+    "name" : "testMethod",
+    "value" : "Hook"
+  }, {
+    "name" : "package",
+    "value" : "Oracle login test: As a user, I can log into the secure area"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-90.0.4430.212"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9d0453ff4e45315d.json",
+  "parameterValues" : [ "chrome-90.0.4430.212" ]
+}

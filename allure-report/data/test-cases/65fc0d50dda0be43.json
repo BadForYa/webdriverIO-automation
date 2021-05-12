@@ -1,0 +1,58 @@
+{
+  "uid" : "65fc0d50dda0be43",
+  "name" : "Then Check the account is logged in",
+  "fullName" : "Oracle login test: As a user, I can log into the secure area.Then Check the account is logged in",
+  "historyId" : "7f2159150b15cb7e0b8267b4dacc3b45",
+  "time" : {
+    "start" : 1620819454771,
+    "stop" : 1620819464802,
+    "duration" : 10031
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "Can't call click on element with selector \"//*[@id=\"u28\"]/div[1]/div/div[3]/div[1]\" because element wasn't found",
+  "statusTrace" : "Error: Can't call click on element with selector \"//*[@id=\"u28\"]/div[1]/div/div[3]/div[1]\" because element wasn't found\n                    at Object.implicitWait [as default] (C:\\Users\\z1543\\Documents\\boilplate\\node_modules\\webdriverio\\build\\utils\\implicitWait.js:26:19)\n                    at Element.elementErrorHandlerCallbackFn (C:\\Users\\z1543\\Documents\\boilplate\\node_modules\\webdriverio\\build\\middlewares.js:13:29)\n                    at Element.runCommandWithHooks (C:\\Users\\z1543\\Documents\\boilplate\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:70:25)\n                    at Element.runCommandWithHooks (C:\\Users\\z1543\\Documents\\boilplate\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:65:24)\n                    at Element.wrapCommandFn (C:\\Users\\z1543\\Documents\\boilplate\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:44:44)\n                    at Element.click (C:\\Users\\z1543\\Documents\\boilplate\\node_modules\\webdriverio\\build\\middlewares.js:34:12)\n                    at LandingPage.checkloginaccount (C:\\Users\\z1543\\Documents\\boilplate\\pageobject\\/langing.page.js:27:30)\n                    at World.<anonymous> (C:\\Users\\z1543\\Documents\\boilplate\\stepdefinations\\/then.js:6:17)\n                    at World.executeSync (C:\\Users\\z1543\\Documents\\boilplate\\node_modules\\@wdio\\sync\\build\\index.js:25:22)\n                    at C:\\Users\\z1543\\Documents\\boilplate\\node_modules\\@wdio\\sync\\build\\index.js:46:68",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Oracle login test: As a user, I can log into the secure area"
+  }, {
+    "name" : "testClass",
+    "value" : "Oracle login test: As a user, I can log into the secure area"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then Check the account is logged in"
+  }, {
+    "name" : "package",
+    "value" : "Oracle login test: As a user, I can log into the secure area"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-90.0.4430.212"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "65fc0d50dda0be43.json",
+  "parameterValues" : [ "chrome-90.0.4430.212" ]
+}

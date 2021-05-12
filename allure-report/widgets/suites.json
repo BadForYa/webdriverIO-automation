@@ -1,0 +1,15 @@
+{
+  "total" : 1,
+  "items" : [ {
+    "uid" : "eb5d20ffcba13699e7c0c90abd1bb841",
+    "name" : "Oracle login test: As a user, I can log into the secure area",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 2,
+      "skipped" : 1,
+      "passed" : 9,
+      "unknown" : 0,
+      "total" : 12
+    }
+  } ]
+}

@@ -1,0 +1,56 @@
+{
+  "uid" : "a45bb6c5561a7346",
+  "name" : "Given Open oracle's login page",
+  "fullName" : "Oracle login test: As a user, I can log into the secure area.Given Open oracle's login page",
+  "historyId" : "4ed70dec57833b43593cffe254938c86",
+  "time" : {
+    "start" : 1620818816136,
+    "stop" : 1620818819502,
+    "duration" : 3366
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Oracle login test: As a user, I can log into the secure area"
+  }, {
+    "name" : "testClass",
+    "value" : "Oracle login test: As a user, I can log into the secure area"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given Open oracle's login page"
+  }, {
+    "name" : "package",
+    "value" : "Oracle login test: As a user, I can log into the secure area"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-90.0.4430.212"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a45bb6c5561a7346.json",
+  "parameterValues" : [ "chrome-90.0.4430.212" ]
+}

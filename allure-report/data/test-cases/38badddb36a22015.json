@@ -1,0 +1,167 @@
+{
+  "uid" : "38badddb36a22015",
+  "name" : "Then Check the account is logged in",
+  "fullName" : "Oracle login test: As a user, I can log into the secure area.Then Check the account is logged in",
+  "historyId" : "7f2159150b15cb7e0b8267b4dacc3b45",
+  "time" : {
+    "start" : 1620820669049,
+    "stop" : 1620820669127,
+    "duration" : 78
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Oracle login test: As a user, I can log into the secure area"
+  }, {
+    "name" : "testClass",
+    "value" : "Oracle login test: As a user, I can log into the secure area"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then Check the account is logged in"
+  }, {
+    "name" : "package",
+    "value" : "Oracle login test: As a user, I can log into the secure area"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-90.0.4430.212"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "656494c75b8a891c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620820580407,
+        "stop" : 1620820580486,
+        "duration" : 79
+      }
+    }, {
+      "uid" : "65fc0d50dda0be43",
+      "status" : "broken",
+      "statusDetails" : "Can't call click on element with selector \"//*[@id=\"u28\"]/div[1]/div/div[3]/div[1]\" because element wasn't found",
+      "time" : {
+        "start" : 1620819454771,
+        "stop" : 1620819464802,
+        "duration" : 10031
+      }
+    }, {
+      "uid" : "880436a3bfec2a27",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620819444118,
+        "stop" : 1620819444207,
+        "duration" : 89
+      }
+    }, {
+      "uid" : "2663d38daf500d12",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1620819357822,
+        "stop" : 1620819357822,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "19fefe68791aa7b1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620819357641,
+        "stop" : 1620819357728,
+        "duration" : 87
+      }
+    }, {
+      "uid" : "cbd0fda982d5acbf",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1620818961904,
+        "stop" : 1620818961904,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "2b04857ede408820",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620818960462,
+        "stop" : 1620818960547,
+        "duration" : 85
+      }
+    }, {
+      "uid" : "76d974081ad3d516",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1620818894392,
+        "stop" : 1620818894392,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "8b0f70a0d994fb8e",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1620818890804,
+        "stop" : 1620818890805,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "84e1081814c7d3a8",
+      "status" : "broken",
+      "statusDetails" : "Step \"Then Check the account is logged in\" is not definedYou can ignore this error by setting cucumberOpts.ignoreUndefinedDefinitions as true.",
+      "time" : {
+        "start" : 1620818819502,
+        "stop" : 1620818819502,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "8cc8417a75a03445",
+      "status" : "broken",
+      "statusDetails" : "Step \"Then Check the account is logged in\" is not definedYou can ignore this error by setting cucumberOpts.ignoreUndefinedDefinitions as true.",
+      "time" : {
+        "start" : 1620818816129,
+        "stop" : 1620818816129,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "4997a7082811bbac",
+      "status" : "broken",
+      "statusDetails" : "Step \"Then Check the account is logged in\" is not definedYou can ignore this error by setting cucumberOpts.ignoreUndefinedDefinitions as true.",
+      "time" : {
+        "start" : 1620818697029,
+        "stop" : 1620818697030,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "f752ca3c13d97bf1",
+      "status" : "broken",
+      "statusDetails" : "Step \"Then Check the account is logged in\" is not definedYou can ignore this error by setting cucumberOpts.ignoreUndefinedDefinitions as true.",
+      "time" : {
+        "start" : 1620818693679,
+        "stop" : 1620818693679,
+        "duration" : 0
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "38badddb36a22015.json",
+  "parameterValues" : [ "chrome-90.0.4430.212" ]
+}
