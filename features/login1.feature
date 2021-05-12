@@ -1,5 +1,5 @@
 Feature: Oracle login test
-  Scenario Outline: As a user, I can log into the secure area
+  Scenario Outline: As a user, I can log into oracle
 
     Given Open oracle's login page
     When Enter username and password of <users>
@@ -10,7 +10,7 @@ Feature: Oracle login test
       | users | 
       | "validlogin" | 
 
-  Scenario Outline: As a user, I can log into the secure area
+  Scenario Outline: Error should show when crecential is wrong
 
     Given Open oracle's login page
     When Enter username and password of <users>
