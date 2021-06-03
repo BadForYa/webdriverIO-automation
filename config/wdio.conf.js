@@ -25,7 +25,7 @@ exports.config = {
     //
     headless: true,
     specs: [
-        './features/*.feature'
+        './features/logintrainer.feature'
     ],
     // Patterns to exclude.
     exclude: [
@@ -103,7 +103,7 @@ exports.config = {
     // with `/`, the base url gets prepended, not including the path portion of your baseUrl.
     // If your `url` parameter starts without a scheme or `/` (like `some/path`), the base url
     // gets prepended directly.
-    baseUrl: 'https://www.oracle.com/index.html',
+    baseUrl: 'https://va2-roleplay.japaneast.cloudapp.azure.com/',
     //
     // Default timeout for all waitFor* commands.
     waitforTimeout: 10000,
